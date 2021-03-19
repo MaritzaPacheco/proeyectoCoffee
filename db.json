@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Maritza",
+    "apeliido_paterno": "Pacheco",
+    "apeliido_materno": "Cuno",
+    "user": "martech",
+    "password": "paris"
+
+  },
+  {
+    "id": 2,
+    "nombre": "Elvis",
+    "apeliido_paterno": "Basilio",
+    "apeliido_materno": "Chambi",
+    "user": "elvis23",
+    "password": "4321*"
+
+  },
+  {
+    "id": 3,
+    "nombre": "David",
+    "apeliido_paterno": "Salazar",
+    "apeliido_materno": "Salazar",
+    "user": "dsalazar",
+    "password": "12345"
+
+  },
+  {
+    "id": 1,
+    "nombre": "Fernado",
+    "apeliido_paterno": "Escobar",
+    "apeliido_materno": "Aventura",
+    "user": "FerNash",
+    "password": "19876"
+
+  },
+  {
+    "id": 1,
+    "nombre": "Angel",
+    "apeliido_paterno": "Duran",
+    "apeliido_materno": "Solid",
+    "user": "angelUx",
+    "password": "col123"
+
+  },
+  {
+    "id": 1,
+    "nombre": "Polet",
+    "apeliido_paterno": "Ayala",
+    "apeliido_materno": "Zambrana",
+    "user": "chokis",
+    "password": ""
+
+  }
+]
